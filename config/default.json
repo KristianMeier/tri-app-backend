@@ -1,0 +1,4 @@
+{
+  "db": "mongodb://localhost/tri-app",
+  "port": "3900"
+}
