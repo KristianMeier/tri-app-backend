@@ -1,4 +1,4 @@
 {
-  "db": "mongodb://localhost/tri-app",
+  "db": "mongodb+srv://<username>:<password>@cluster0.3n5wy.mongodb.net/?retryWrites=true&w=majority",
   "port": "3900"
 }
