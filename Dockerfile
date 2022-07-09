@@ -1,5 +1,3 @@
-# Skal jeg vælge Ubuntu istedet?
-# Tutorial-guide anbefalede denne letvægts "distro"
 FROM node:14.16.0-alpine3.13
 
 RUN addgroup app && adduser -S -G app app
