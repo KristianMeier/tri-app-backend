@@ -1,4 +1,4 @@
 {
-  "db": "mongodb://localhost/tri-app",
-  "port": "3900"
+  "db": "mongodb://db:27017/tri-app",
+  "port": "3001"
 }
