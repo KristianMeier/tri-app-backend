@@ -3,7 +3,7 @@
 
 FROM node:14.16.0-alpine3.13
 
-#User nødvendigt? Se beskrid under frontend.
+#User nødvendigt? Se beskriv under frontend.
 RUN addgroup app && adduser -S -G app app
 USER app
 
@@ -18,4 +18,3 @@ CMD ["npm", "start"]
 
 ## Giver dette mening?
 ## Hvor skal jeg ellers lave migrations?
-RUN node seed.js
